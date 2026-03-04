@@ -9,12 +9,12 @@ This project fine-tunes and compares two pre-trained language models on a nostal
 Nostalgic Sentiment Analysis of YouTube Comments sourced from Hugging Face.
 
 # Models
-google-bert/bert-base-cased
+google-bert/bert-base-cased; 
 FacebookAI/xlm-roberta-base
 
 # Requirements
-transformers
-torch
+transformers, 
+torch, 
 datasets
 
 # Usage
